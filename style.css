@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: roboto;
-  src: url('../Assets/Roboto-Regular.ttf');
+  src: url('./Assets/Roboto-Regular.ttf');
 }
 * {
   margin: 0;
